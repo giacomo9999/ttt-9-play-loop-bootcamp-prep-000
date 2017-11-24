@@ -37,7 +37,7 @@ end
 
 def play (board)
   (1..9).each do
-    
+    turn (board)
   end
 end
 
